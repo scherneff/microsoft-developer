@@ -190,7 +190,9 @@ button {
   text-align: center;
   text-decoration: none;
   background-color: var(--link-color);
-  color: var(--background-color);
+  #color: var(--background-color);
+  color: red;
+  
   cursor: pointer;
   text-overflow: ellipsis;
   white-space: nowrap;
